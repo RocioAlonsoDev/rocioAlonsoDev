@@ -1,4 +1,12 @@
-### Hi there 👋
+
+## Hello, I'm Rocío. 
+
+I'm a junior Front-end Developer based in Asturias, Spain.
+
+I'm currently learning Javascript. 
+
+You can reach me at : rocioalonso.dev@gmail.com
+
 
 <!--
 **rocioAlonsoDev/rocioAlonsoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
