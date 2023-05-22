@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! I'm Rocío</h1>
-<h3 align="center">Front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocioalonsodev&label=Profile%20views&color=8c6cd6&style=flat" alt="rocioalonsodev" /> </p>
 
@@ -8,7 +7,7 @@
 
 - 🤝 Learning Full-Stack Development at [Factoria F5](https://github.com/FactoriaF5-Asturias)
 
-- 📧 You can reach me at: [rocioalonso.dev@gmail.com](rocioalonso.dev@gmail.com)
+- 📧 You can reach me at [rocioalonso.dev@gmail.com](rocioalonso.dev@gmail.com)
 
 - 👨‍💻 **2023 Certificate of proficientcy in Web Development.**
 
