@@ -9,7 +9,7 @@
 
 - 📧 You can reach me at [rocioalonso.dev@gmail.com](rocioalonso.dev@gmail.com)
 
-- 👨‍💻 **2023 Certificate of proficientcy in Web Development.**
+- 👨‍💻 **2023 Certificate of proficiency in Web Development.**
 
 - 💬 **C2 English**
 
